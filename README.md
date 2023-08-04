@@ -36,13 +36,17 @@ $ few features are upcomming
 
 ## You Can contribute by adding some more awesome feature. Always welcomes you.
 
-`git clone git@github.com:github-usman/mytextmodify.git`
+```
+git clone git@github.com:github-usman/mytextmodify.git
+```
 
+```
+npm install
+```
 
-`npm install`
-
-`npm start`
-
+```
+npm start
+```
 ---
 ### Don't forget to give me Credit
 
