@@ -2,6 +2,9 @@
 
 MyTextModify is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can remove extra space to lowercase to uppercase and uppercase to lowercase
 
+
+## Home Page
+![alt text](./public/mytextmodify_home.png)
 ## Getting Started
 
 ` follow this link `
